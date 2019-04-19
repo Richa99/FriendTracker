@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FriendTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="chngetype">Change Type</string>
+    <string name="share">Share Location</string>
+    <string name="save">Save Location</string>
+    <string name="show">Show Locations</string>
+    <string name="pname">Place Name</string>
+    <string name="lat">Latitude</string>
+    <string name="log">Longitude</string>
+    <string name="keyid">Key_ID</string>
+    <string name="delete">Delete Location</string>
+    <string name="addloc">Add Location</string>
+
+</resources>
